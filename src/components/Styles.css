@@ -1,0 +1,76 @@
+.my-custom-class .rdw-inline-wrapper {
+    flex-wrap: nowrap;
+    margin: 0;
+  }
+
+.my-custom-class .rdw-option-wrapper {
+    flex-wrap: nowrap;
+    margin: 0;
+  }
+
+  .my-custom-class .rdw-dropdown-wrapper {
+    flex-wrap: nowrap;
+    margin: 0;
+  }
+
+  .my-custom-class .rdw-list-wrapper {
+    flex-wrap: nowrap;
+    margin: 0;
+  }
+
+  .my-custom-class .rdw-text-align-wrapper {
+    flex-wrap: nowrap;
+    margin: 0;
+  }
+
+  .my-custom-class .rdw-block-wrapper {
+    flex-wrap: nowrap;
+    margin: 0;
+  }
+
+  .my-custom-class .rdw-fontsize-wrapper {
+    flex-wrap: nowrap;
+    margin: 0;
+  }
+
+  .my-custom-class .rdw-fontfamily-wrapper {
+    flex-wrap: nowrap;
+    margin: 0;
+  }
+
+  .my-custom-class .rdw-colorpicker-wrapper {
+    flex-wrap: nowrap;
+    margin: 0;
+  }
+
+  .my-custom-class-toolbar .rdw-editor-toolbar {
+    flex-wrap: wrap;
+    margin: 0;
+  }
+  
+.my-custom-class-card .ant-card .ant-card-body{
+    padding: 0;
+}
+
+.eventsSchedule {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.ant-rate .ant-rate-star-full,
+.ant-rate .ant-rate-star-zero {
+  color: #f0f0f0; 
+}
+
+.ant-rate .ant-rate-star-full:nth-of-type(-n+2) {
+  color: #52c41a; 
+}
+
+.ant-rate .ant-rate-star-full:nth-of-type(n+4) {
+  color: #f5222d; 
+}
+
+.ant-rate .ant-rate-star-full:nth-of-type(3) {
+  color: #faad14; 
+}
