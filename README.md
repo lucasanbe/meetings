@@ -1,70 +1,67 @@
-# Getting Started with Create React App
+# Meetings
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este projeto nasceu da necessidade identificada em uma empresa de contar com ferramentas que tornassem as reuniões diárias mais eficientes e organizadas, tanto para gestores quanto para colaboradores. Através da aplicação, buscou-se trazer maior automatização e praticidade ao processo de realização de reuniões, permitindo que os usuários possam focar em conteúdo e resultados. 
 
-## Available Scripts
+Contribuições são bem-vindas para melhorar e expandir as funcionalidades da plataforma.
 
-In the project directory, you can run:
+# Tecnologias Usadas
 
-### `npm start`
+O projeto Meetings foi desenvolvido utilizando as seguintes tecnologias:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+•	Next.js: framework para criação de aplicações React com recursos avançados de SSR e SSG;
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+•	React: biblioteca JavaScript para criação de interfaces de usuário;
 
-### `npm test`
+•	Ant Design: biblioteca de componentes de interface de usuário para React;
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+•	Draft.js: framework para criação de editores de texto ricos;
 
-### `npm run build`
+•	React-Draft-Wysiwyg: componente React baseado no Draft.js para criação de editores WYSIWYG;
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+•	Moment.js: biblioteca JavaScript para manipulação de datas e horas;
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+•	Html-React-Parser: biblioteca JavaScript para análise de HTML e criação de elementos React correspondentes;
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+•	ESLint: ferramenta de análise de código estática para identificar problemas no código JavaScript e aplicar padrões de codificação;
 
-### `npm run eject`
+# Como Instalar
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+1.	Clone o repositório do GitHub em sua máquina local: 
+“git clone https://github.com/seu-usuario/meetings.git”
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+2.	Acesse a pasta do projeto:
+“cd meetings”
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+3.	Acesse a pasta do projeto:
+“yarn install”
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+4.	Inicie a aplicação em modo de desenvolvimento:
+“yarn start”
 
-## Learn More
+5.	Acesse a aplicação em seu navegador de internet. A aplicação será executada em: http://localhost:3000/.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+6.	Para criar uma versão de produção da aplicação, execute o comando: “yarn build”
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+# Contribuição
+Agradeço o seu interesse em contribuir para o desenvolvimento deste projeto! Sua ajuda é muito valiosa e pode ajudar a melhorar ainda mais esta aplicação e no meu desenvolvimento.
+Para contribuir, siga os seguintes passos:
 
-### Code Splitting
+1.	Crie um fork deste repositório em sua conta do Github.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+2.	Realize as mudanças que deseja e faça o commit das mesmas em seu fork.
 
-### Analyzing the Bundle Size
+3.	Crie um pull request para a branch principal deste repositório. Certifique-se de incluir uma descrição clara do que foi modificado e de como isso impacta a aplicação.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+4.	Aguarde a revisão de seu pull request. Faremos o possível para analisá-lo e respondê-lo o mais rápido possível.
 
-### Making a Progressive Web App
+Agradeço novamente pela sua contribuição e espero trabalhar em conjunto para melhorar ainda mais este projeto!
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+# Autor
+Lucas Andrade Bezerra
 
-### Advanced Configuration
+Linkedin: https://www.linkedin.com/in/lucasdev5/
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+GitHub: @lucasanbe
 
-### Deployment
+Instagram: @lucas.anbe
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
